@@ -13,7 +13,7 @@ export default class  Home extends Component {
     render(){
   return (
     <View style={styles.container}>
-      <Text>Home Screen jjjj    ,,, ....</Text>
+      <Text>Home Screen  That exist in Root folder</Text>
       <ActivityIndicator size="large"></ActivityIndicator>
       <StatusBar style="auto" />
     </View>
